@@ -2,7 +2,7 @@
 
 **Game Booster CLI** is a bash-based performance toolkit for Linux gamers who want to squeeze every drop of FPS before launching their game.
 
-Created by [San aka The Lucid Jester], this script gives you control over:
+Created by [San], this script gives you control over:
 - APT cache cleanup
 - Memory cache drop
 - Killing background bloat (Discord, Steam, etc)
