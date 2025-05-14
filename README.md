@@ -20,12 +20,13 @@ Because sometimes, your OS just doesn’t *get* that it’s game time.
 
 -  Clean `apt` package cache
 -  Drop Linux memory caches
--  Kill unnecessary background apps (Discord, Steam, etc)
+-  Kill unnecessary background apps (Discord, Steam, etc). 
 -  Set CPU governor to `performance`
 -  Run all optimizations with one keypress
 -  Stylish ASCII UI with safe prompts
 
 ---
+## NOTE-: You should probably add or remove bloat apps as per 
 
 ##  Requirements
 
